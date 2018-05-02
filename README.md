@@ -1,6 +1,7 @@
 # hpc-cell-identification-challenge
 
 Our approach is three fold:
+
 (1) CellProfiler for segmentation and feature extraction + Random Forest for classification
 
 (2) Graph partitioning for segmentation + SPADE for feature extraction + Random Forest for classification
